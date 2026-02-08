@@ -20,7 +20,7 @@
     {
       "name": "outlook-email-manager",
       "description": "Personal Outlook/MS365 email and calendar operations",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -295,7 +295,7 @@
     {
       "name": "uk-transport-manager",
       "description": "UK train departures, timetables, journey planning with connections, and booking links via TransportAPI + Google Routes API",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
