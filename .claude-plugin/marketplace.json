@@ -9,7 +9,7 @@
     {
       "name": "airtable-manager",
       "description": "Airtable database operations with isolated MCP access",
-      "version": "1.1.5",
+      "version": "1.1.7",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -20,7 +20,7 @@
     {
       "name": "outlook-email-manager",
       "description": "Personal Outlook/MS365 email and calendar operations",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -31,7 +31,7 @@
     {
       "name": "inflow-inventory-manager",
       "description": "inFlow Inventory stock management and operations",
-      "version": "1.7.0",
+      "version": "1.7.2",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -42,7 +42,7 @@
     {
       "name": "clickup-task-manager",
       "description": "ClickUp task management and sprint tracking",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -53,7 +53,7 @@
     {
       "name": "github-manager",
       "description": "GitHub repository, issue, and PR management via gh CLI",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -64,7 +64,7 @@
     {
       "name": "google-workspace-manager",
       "description": "Business Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Rich Text, Comments, Suggestions)",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -75,7 +75,7 @@
     {
       "name": "google-analytics-manager",
       "description": "Google Analytics 4, Search Console, and Merchant Center analytics",
-      "version": "1.3.3",
+      "version": "1.3.5",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -86,7 +86,7 @@
     {
       "name": "notion-workspace-manager",
       "description": "Notion workspace documentation and SOPs",
-      "version": "1.1.7",
+      "version": "1.1.8",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -97,7 +97,7 @@
     {
       "name": "shopify-order-manager",
       "description": "Shopify e-commerce operations (orders, customers, products)",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -108,7 +108,7 @@
     {
       "name": "web-search-manager",
       "description": "Web search and page fetching via Brave Search API and Jina Reader",
-      "version": "1.1.0",
+      "version": "1.1.2",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -119,7 +119,7 @@
     {
       "name": "slack-manager",
       "description": "Slack workspace operations (channels, messages, users)",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -130,7 +130,7 @@
     {
       "name": "make-scenario-manager",
       "description": "Trigger Make.com On-Demand scenarios (only On-Demand scheduled scenarios are exposed)",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -141,7 +141,7 @@
     {
       "name": "klaviyo-marketing-manager",
       "description": "Klaviyo email marketing (campaigns, flows, segments, profiles)",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -152,7 +152,7 @@
     {
       "name": "zapier-automation-manager",
       "description": "Zapier actions + Zap management via browser automation",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -163,7 +163,7 @@
     {
       "name": "gorgias-support-manager",
       "description": "Gorgias helpdesk operations (tickets, customers, messages)",
-      "version": "1.1.8",
+      "version": "1.1.9",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -174,7 +174,7 @@
     {
       "name": "judgeme-review-manager",
       "description": "Judge.me product reviews and ratings management",
-      "version": "1.1.7",
+      "version": "1.1.8",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -185,7 +185,7 @@
     {
       "name": "xero-accounting-manager",
       "description": "Xero accounting operations via direct API (invoices, contacts, payments, reports, quotes, and more)",
-      "version": "2.1.6",
+      "version": "2.1.7",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -196,7 +196,7 @@
     {
       "name": "freightos-shipment-manager",
       "description": "Freightos freight quotes (API) and booking/tracking (browser)",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -207,7 +207,7 @@
     {
       "name": "ups-collection-manager",
       "description": "UPS collection booking via CLI-based browser automation (zero context overhead)",
-      "version": "2.1.5",
+      "version": "2.1.6",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -218,7 +218,7 @@
     {
       "name": "royalmail-label-manager",
       "description": "Royal Mail Click & Drop shipping labels via browser automation",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -229,7 +229,7 @@
     {
       "name": "easypost-shipping-manager",
       "description": "Create UPS shipping labels via EasyPost API with Shopify integration",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -240,7 +240,7 @@
     {
       "name": "aftership-tracking-manager",
       "description": "AfterShip shipment tracking (query, monitor, retrack)",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -251,7 +251,7 @@
     {
       "name": "shipsgo-container-tracker",
       "description": "ShipsGo ocean container tracking (API v2) - BL/container/booking tracking, ETA monitoring, vessel positions",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -262,7 +262,7 @@
     {
       "name": "retently-feedback-manager",
       "description": "Retently NPS/CSAT feedback operations (customers, responses, scores, campaigns)",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -273,7 +273,7 @@
     {
       "name": "betting-markets-manager",
       "description": "Search and aggregate prediction markets (Polymarket, Kalshi, Betfair) with unified odds and volume",
-      "version": "1.2.9",
+      "version": "1.2.10",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -284,7 +284,7 @@
     {
       "name": "clarity-fm-manager",
       "description": "Find and book expert calls on Clarity.fm via CLI-based browser automation (zero context overhead)",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -306,7 +306,7 @@
     {
       "name": "italki-manager",
       "description": "italki Mandarin Chinese teacher search, indexing, and lesson booking via hybrid HTTP API + browser automation",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
