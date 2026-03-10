@@ -63,8 +63,8 @@
     },
     {
       "name": "google-workspace-manager",
-      "description": "Business Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Rich Text, Comments, Suggestions)",
-      "version": "1.7.2",
+      "description": "Business Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Tasks, Contacts, Chat, Filters, Comments)",
+      "version": "1.8.0",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -97,7 +97,7 @@
     {
       "name": "shopify-order-manager",
       "description": "Shopify e-commerce operations (orders, customers, products)",
-      "version": "1.1.13",
+      "version": "1.1.15",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -218,7 +218,7 @@
     {
       "name": "royalmail-label-manager",
       "description": "Royal Mail Click & Drop shipping labels via browser automation",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -229,7 +229,7 @@
     {
       "name": "easypost-shipping-manager",
       "description": "Create UPS shipping labels via EasyPost API with Shopify integration",
-      "version": "1.0.7",
+      "version": "1.0.9",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
@@ -272,8 +272,8 @@
     },
     {
       "name": "betting-markets-manager",
-      "description": "Search and aggregate prediction markets (Polymarket, Kalshi, Betfair) with unified odds and volume",
-      "version": "1.4.0",
+      "description": "Search and aggregate prediction markets (Polymarket, Kalshi, Betfair) with unified odds, volume, and historical probability charts",
+      "version": "1.5.0",
       "author": {
         "name": "Plugin Author",
         "email": "YOUR_AUTHOR_EMAIL"
