@@ -34,49 +34,49 @@ See each plugin's README for detailed setup instructions and available commands.
 
 | Plugin                                                                                    | Version | Description                                                                                                                        |
 | ----------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [airtable-manager](https://github.com/bigl34/claude-code-plugin-airtable)                 | 1.1.10  | Airtable database operations with isolated MCP access                                                                              |
-| [betting-markets-manager](https://github.com/bigl34/claude-code-plugin-betting-markets)   | 1.6.0   | Search and aggregate prediction markets (Polymarket, Kalshi, Betfair) with unified odds, volume, and historical probability charts |
-| [clarity-fm-manager](https://github.com/bigl34/claude-code-plugin-clarity-fm)             | 1.2.4   | Find and book expert calls on Clarity.fm via CLI-based browser automation (zero context overhead)                                  |
-| [clickup-task-manager](https://github.com/bigl34/claude-code-plugin-clickup)              | 1.1.10  | ClickUp task management and sprint tracking                                                                                        |
-| [freightos-shipment-manager](https://github.com/bigl34/claude-code-plugin-freightos)      | 1.0.12  | Freightos freight quotes (API) and booking/tracking (browser)                                                                      |
-| [google-workspace-manager](https://github.com/bigl34/claude-code-plugin-google-workspace) | 1.8.1   | Business Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Tasks, Contacts, Chat, Filters, Comments)                         |
-| [gorgias-support-manager](https://github.com/bigl34/claude-code-plugin-gorgias)           | 1.1.12  | Gorgias helpdesk operations (tickets, customers, messages)                                                                         |
-| [inflow-inventory-manager](https://github.com/bigl34/claude-code-plugin-inflow)           | 1.7.3   | inFlow Inventory stock management and operations                                                                                   |
-| [italki-manager](https://github.com/bigl34/claude-code-plugin-italki)                     | 1.2.4   | italki Mandarin Chinese teacher search, indexing, and lesson booking via hybrid HTTP API + browser automation                      |
-| [judgeme-review-manager](https://github.com/bigl34/claude-code-plugin-judgeme)            | 1.1.11  | Judge.me product reviews and ratings management                                                                                    |
-| [klaviyo-marketing-manager](https://github.com/bigl34/claude-code-plugin-klaviyo)         | 1.2.10  | Klaviyo email marketing (campaigns, flows, segments, profiles)                                                                     |
-| [make-scenario-manager](https://github.com/bigl34/claude-code-plugin-make)                | 1.0.10  | Trigger Make.com On-Demand scenarios (only On-Demand scheduled scenarios are exposed)                                              |
-| [notion-workspace-manager](https://github.com/bigl34/claude-code-plugin-notion)           | 1.1.11  | Notion workspace documentation and SOPs                                                                                            |
-| [outlook-email-manager](https://github.com/bigl34/claude-code-plugin-outlook)             | 1.2.8   | Personal Outlook/MS365 email and calendar operations                                                                               |
-| [retently-feedback-manager](https://github.com/bigl34/claude-code-plugin-retently)        | 1.0.7   | Retently NPS/CSAT feedback operations (customers, responses, scores, campaigns)                                                    |
-| [shopify-order-manager](https://github.com/bigl34/claude-code-plugin-shopify)             | 1.1.16  | Shopify e-commerce operations (orders, customers, products)                                                                        |
-| [slack-manager](https://github.com/bigl34/claude-code-plugin-slack)                       | 1.1.13  | Slack workspace operations (channels, messages, users)                                                                             |
-| uk-transport-manager                                                                      | 1.2.0   | UK train departures, timetables, journey planning with connections, and booking links via TransportAPI + Google Routes API         |
-| [web-search-manager](https://github.com/bigl34/claude-code-plugin-web-search)             | 1.1.5   | Web search and page fetching via Brave Search API and Jina Reader                                                                  |
-| [xero-accounting-manager](https://github.com/bigl34/claude-code-plugin-xero)              | 2.2.1   | Xero accounting operations via direct API (invoices, contacts, payments, reports, quotes, and more)                                |
-| [zapier-automation-manager](https://github.com/bigl34/claude-code-plugin-zapier)          | 1.1.7   | Zapier actions + Zap management via browser automation                                                                             |
+| [airtable-manager](https://github.com/bigl34/claude-code-plugin-airtable)                 | 1.2.0   | Airtable database operations with isolated MCP access                                                                              |
+| [betting-markets-manager](https://github.com/bigl34/claude-code-plugin-betting-markets)   | 1.8.0   | Search and aggregate prediction markets (Polymarket, Kalshi, Betfair) with unified odds, volume, and historical probability charts |
+| [clarity-fm-manager](https://github.com/bigl34/claude-code-plugin-clarity-fm)             | 1.3.0   | Find and book expert calls on Clarity.fm via CLI-based browser automation (zero context overhead)                                  |
+| [clickup-task-manager](https://github.com/bigl34/claude-code-plugin-clickup)              | 1.2.0   | ClickUp task management and sprint tracking                                                                                        |
+| [freightos-shipment-manager](https://github.com/bigl34/claude-code-plugin-freightos)      | 1.1.0   | Freightos freight quotes (API) and booking/tracking (browser)                                                                      |
+| [google-workspace-manager](https://github.com/bigl34/claude-code-plugin-google-workspace) | 1.10.0  | Business Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, Tasks, Contacts, Chat, Filters, Comments)                         |
+| [gorgias-support-manager](https://github.com/bigl34/claude-code-plugin-gorgias)           | 1.3.0   | Gorgias helpdesk operations (tickets, customers, messages)                                                                         |
+| [inflow-inventory-manager](https://github.com/bigl34/claude-code-plugin-inflow)           | 1.8.0   | inFlow Inventory stock management and operations                                                                                   |
+| [italki-manager](https://github.com/bigl34/claude-code-plugin-italki)                     | 1.3.0   | italki Mandarin Chinese teacher search, indexing, and lesson booking via hybrid HTTP API + browser automation                      |
+| [judgeme-review-manager](https://github.com/bigl34/claude-code-plugin-judgeme)            | 1.3.0   | Judge.me product reviews and ratings management                                                                                    |
+| [klaviyo-marketing-manager](https://github.com/bigl34/claude-code-plugin-klaviyo)         | 1.4.0   | Klaviyo email marketing (campaigns, flows, segments, profiles)                                                                     |
+| [make-scenario-manager](https://github.com/bigl34/claude-code-plugin-make)                | 1.1.0   | Trigger Make.com On-Demand scenarios (only On-Demand scheduled scenarios are exposed)                                              |
+| [notion-workspace-manager](https://github.com/bigl34/claude-code-plugin-notion)           | 1.2.0   | Notion workspace documentation and SOPs                                                                                            |
+| [outlook-email-manager](https://github.com/bigl34/claude-code-plugin-outlook)             | 1.4.0   | Personal Outlook/MS365 email and calendar operations                                                                               |
+| [retently-feedback-manager](https://github.com/bigl34/claude-code-plugin-retently)        | 1.2.0   | Retently NPS/CSAT feedback operations (customers, responses, scores, campaigns)                                                    |
+| [shopify-order-manager](https://github.com/bigl34/claude-code-plugin-shopify)             | 1.3.0   | Shopify e-commerce operations (orders, customers, products)                                                                        |
+| [slack-manager](https://github.com/bigl34/claude-code-plugin-slack)                       | 1.3.0   | Slack workspace operations (channels, messages, users)                                                                             |
+| uk-transport-manager                                                                      | 1.2.1   | UK train departures, timetables, journey planning with connections, and booking links via TransportAPI + Google Routes API         |
+| [web-search-manager](https://github.com/bigl34/claude-code-plugin-web-search)             | 1.3.0   | Web search and page fetching via Brave Search API and Jina Reader                                                                  |
+| [xero-accounting-manager](https://github.com/bigl34/claude-code-plugin-xero)              | 2.3.0   | Xero accounting operations via direct API (invoices, contacts, payments, reports, quotes, and more)                                |
+| [zapier-automation-manager](https://github.com/bigl34/claude-code-plugin-zapier)          | 1.3.0   | Zapier actions + Zap management via headless API + browser automation                                                              |
 
 ### Logistics & Shipping (5 plugins)
 
 | Plugin                                                                               | Version | Description                                                                                                 |
 | ------------------------------------------------------------------------------------ | ------- | ----------------------------------------------------------------------------------------------------------- |
-| [aftership-tracking-manager](https://github.com/bigl34/claude-code-plugin-aftership) | 1.1.7   | AfterShip shipment tracking (query, monitor, retrack)                                                       |
-| [easypost-shipping-manager](https://github.com/bigl34/claude-code-plugin-easypost)   | 1.0.10  | Create UPS shipping labels via EasyPost API with Shopify integration                                        |
-| [royalmail-label-manager](https://github.com/bigl34/claude-code-plugin-royalmail)    | 1.0.7   | Royal Mail Click & Drop shipping labels via browser automation                                              |
-| [shipsgo-container-tracker](https://github.com/bigl34/claude-code-plugin-shipsgo)    | 1.0.9   | ShipsGo ocean container tracking (API v2) - BL/container/booking tracking, ETA monitoring, vessel positions |
-| [ups-collection-manager](https://github.com/bigl34/claude-code-plugin-ups)           | 2.1.8   | UPS collection booking via CLI-based browser automation (zero context overhead)                             |
+| [aftership-tracking-manager](https://github.com/bigl34/claude-code-plugin-aftership) | 1.3.0   | AfterShip shipment tracking (query, monitor, retrack)                                                       |
+| [easypost-shipping-manager](https://github.com/bigl34/claude-code-plugin-easypost)   | 1.1.0   | Create UPS shipping labels via EasyPost API with Shopify integration                                        |
+| [royalmail-label-manager](https://github.com/bigl34/claude-code-plugin-royalmail)    | 1.1.0   | Royal Mail Click & Drop shipping labels via browser automation                                              |
+| [shipsgo-container-tracker](https://github.com/bigl34/claude-code-plugin-shipsgo)    | 1.1.0   | ShipsGo ocean container tracking (API v2) - BL/container/booking tracking, ETA monitoring, vessel positions |
+| [ups-collection-manager](https://github.com/bigl34/claude-code-plugin-ups)           | 2.2.0   | UPS collection booking via CLI-based browser automation (zero context overhead)                             |
 
 ### Analytics & Reporting (1 plugin)
 
 | Plugin                                                                                    | Version | Description                                                       |
 | ----------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------- |
-| [google-analytics-manager](https://github.com/bigl34/claude-code-plugin-google-analytics) | 1.3.8   | Google Analytics 4, Search Console, and Merchant Center analytics |
+| [google-analytics-manager](https://github.com/bigl34/claude-code-plugin-google-analytics) | 1.4.0   | Google Analytics 4, Search Console, and Merchant Center analytics |
 
 ### Development Tools (1 plugin)
 
 | Plugin                                                                | Version | Description                                            |
 | --------------------------------------------------------------------- | ------- | ------------------------------------------------------ |
-| [github-manager](https://github.com/bigl34/claude-code-plugin-github) | 1.1.7   | GitHub repository, issue, and PR management via gh CLI |
+| [github-manager](https://github.com/bigl34/claude-code-plugin-github) | 1.2.0   | GitHub repository, issue, and PR management via gh CLI |
 
 ## Architecture
 
