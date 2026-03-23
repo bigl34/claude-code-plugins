@@ -3,7 +3,7 @@
   "description": "Custom local plugins with isolated MCP access",
   "owner": {
     "name": "Plugin Author",
-    "email": "YOUR_AUTHOR_EMAIL"
+    "email": "luke@coverlevel.com"
   },
   "plugins": [
     {
@@ -12,7 +12,7 @@
       "version": "1.2.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./airtable-manager",
       "category": "productivity"
@@ -23,7 +23,7 @@
       "version": "1.4.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./outlook-email-manager",
       "category": "productivity"
@@ -31,10 +31,10 @@
     {
       "name": "inflow-inventory-manager",
       "description": "inFlow Inventory stock management and operations",
-      "version": "1.8.0",
+      "version": "1.9.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./inflow-inventory-manager",
       "category": "productivity"
@@ -45,7 +45,7 @@
       "version": "1.2.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./clickup-task-manager",
       "category": "productivity"
@@ -53,10 +53,10 @@
     {
       "name": "github-manager",
       "description": "GitHub repository, issue, and PR management via gh CLI",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./github-manager",
       "category": "development"
@@ -67,7 +67,7 @@
       "version": "1.10.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./google-workspace-manager",
       "category": "productivity"
@@ -75,10 +75,10 @@
     {
       "name": "google-analytics-manager",
       "description": "Google Analytics 4, Search Console, and Merchant Center analytics",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./google-analytics-manager",
       "category": "analytics"
@@ -89,7 +89,7 @@
       "version": "1.2.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./notion-workspace-manager",
       "category": "productivity"
@@ -97,10 +97,10 @@
     {
       "name": "shopify-order-manager",
       "description": "Shopify e-commerce operations (orders, customers, products)",
-      "version": "1.3.0",
+      "version": "1.3.3",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./shopify-order-manager",
       "category": "productivity"
@@ -111,7 +111,7 @@
       "version": "1.3.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./web-search-manager",
       "category": "productivity"
@@ -122,7 +122,7 @@
       "version": "1.3.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./slack-manager",
       "category": "productivity"
@@ -133,7 +133,7 @@
       "version": "1.1.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./make-scenario-manager",
       "category": "productivity"
@@ -144,7 +144,7 @@
       "version": "1.4.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./klaviyo-marketing-manager",
       "category": "productivity"
@@ -152,10 +152,10 @@
     {
       "name": "zapier-automation-manager",
       "description": "Zapier actions + Zap management via headless API + browser automation",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./zapier-automation-manager",
       "category": "productivity"
@@ -166,7 +166,7 @@
       "version": "1.3.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./gorgias-support-manager",
       "category": "productivity"
@@ -174,10 +174,10 @@
     {
       "name": "judgeme-review-manager",
       "description": "Judge.me product reviews and ratings management",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./judgeme-review-manager",
       "category": "productivity"
@@ -188,7 +188,7 @@
       "version": "2.3.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./xero-accounting-manager",
       "category": "productivity"
@@ -196,10 +196,10 @@
     {
       "name": "freightos-shipment-manager",
       "description": "Freightos freight quotes (API) and booking/tracking (browser)",
-      "version": "1.1.0",
+      "version": "1.1.2",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./freightos-shipment-manager",
       "category": "productivity"
@@ -207,10 +207,10 @@
     {
       "name": "ups-collection-manager",
       "description": "UPS collection booking via CLI-based browser automation (zero context overhead)",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./ups-collection-manager",
       "category": "logistics"
@@ -221,7 +221,7 @@
       "version": "1.1.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./royalmail-label-manager",
       "category": "logistics"
@@ -232,7 +232,7 @@
       "version": "1.1.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./easypost-shipping-manager",
       "category": "logistics"
@@ -243,7 +243,7 @@
       "version": "1.3.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./aftership-tracking-manager",
       "category": "logistics"
@@ -251,10 +251,10 @@
     {
       "name": "shipsgo-container-tracker",
       "description": "ShipsGo ocean container tracking (API v2) - BL/container/booking tracking, ETA monitoring, vessel positions",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./shipsgo-container-tracker",
       "category": "logistics"
@@ -265,7 +265,7 @@
       "version": "1.2.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./retently-feedback-manager",
       "category": "productivity"
@@ -276,7 +276,7 @@
       "version": "1.8.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./betting-markets-manager",
       "category": "productivity"
@@ -287,7 +287,7 @@
       "version": "1.3.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./clarity-fm-manager",
       "category": "productivity"
@@ -298,7 +298,7 @@
       "version": "1.2.1",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./uk-transport-manager",
       "category": "productivity"
@@ -309,7 +309,7 @@
       "version": "1.3.0",
       "author": {
         "name": "Plugin Author",
-        "email": "YOUR_AUTHOR_EMAIL"
+        "email": "luke@coverlevel.com"
       },
       "source": "./italki-manager",
       "category": "productivity"
